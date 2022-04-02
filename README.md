@@ -28,3 +28,6 @@ xed .
 * 选择`PAGQLExtension` 运行, 并选择 `Quick Look Simulator`
 * 打开 `Finder` 
 * 选择`pag`文件,按下空格即可预览, 或者切换为分栏模式,右边同样会出现预览
+
+![](./screenshots/1.png)
+![](./screenshots/2.png)
