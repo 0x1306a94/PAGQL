@@ -1,0 +1,16 @@
+PODS:
+  - libpag (4.0.0)
+
+DEPENDENCIES:
+  - libpag (from `./libpag`)
+
+EXTERNAL SOURCES:
+  libpag:
+    :path: "./libpag"
+
+SPEC CHECKSUMS:
+  libpag: 91e151c079b46ee18fe107b9abba2081c0ee1fcf
+
+PODFILE CHECKSUM: ea6822e534d97a8377c0682e5b760b68ffac6feb
+
+COCOAPODS: 1.10.2
