@@ -1,3 +1,0 @@
-[submodule "libpag"]
-	path = libpag
-	url = git@github.com:Tencent/libpag.git
