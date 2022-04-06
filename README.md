@@ -22,6 +22,7 @@ cd libpag
 git lfs install
 git lfs pull
 ../
+pod install
 xed .
 ```
 #### debug
