@@ -32,3 +32,6 @@ xed .
 
 ![](./screenshots/1.png)
 ![](./screenshots/2.png)
+
+#### 问题？
+* 不显示时，打开终端执行`qlmanage -r`

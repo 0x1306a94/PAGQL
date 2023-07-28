@@ -56,7 +56,7 @@ static NSString *const kPlayerRepeatCount = @"PlayerRepeatCount";
 
     NSNumber *value = [[NSUserDefaults standardUserDefaults] objectForKey:kPlayerRepeatCount];
     if (value == nil) {
-        [[NSUserDefaults standardUserDefaults] registerDefaults:@{kPlayerRepeatCount : @1}];
+        [[NSUserDefaults standardUserDefaults] registerDefaults:@{kPlayerRepeatCount: @1}];
         [[NSUserDefaults standardUserDefaults] synchronize];
     }
     [self.playerView setPath:url.path];
@@ -71,4 +71,3 @@ static NSString *const kPlayerRepeatCount = @"PlayerRepeatCount";
 }
 
 @end
-
